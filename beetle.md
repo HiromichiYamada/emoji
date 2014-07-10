@@ -1,5 +1,0 @@
-emoji
-=====
-
-```:beetle:```
-:beetle:
